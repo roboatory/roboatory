@@ -2,7 +2,7 @@
 
 - 📚 I'm currently a graduate student in biomedical data science @ Stanford
 - 🎓 I previously graduated from Vanderbilt where I studied molecular & cellular biology, computer science, and mathematics, kickstarting my fascination with all three disciplines and their intersection
-- 🧬 On the molecular front, I'm particularly interested in understanding the tumor microenvironment at single-cell & sub-cellular resolution using high-throughput approaches
+- 🧬 On the molecular front, I'm particularly interested in understanding the tumor microenvironment at single-cell & sub-cellular resolution using high-throughput and multimodal approaches
 - 🩺 On the clinical front, I'm fascinated by notions of a [generalist medical AI](https://www.nature.com/articles/s41586-023-05881-4) to streamline healthcare delivery
 
 <p align="center" style="margin: -20px 0 30px">
