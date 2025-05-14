@@ -1,31 +1,8 @@
-### Hey there, I'm Rohit 👋
+### hey there, i'm rohit 👋
 
-- 📚 I'm currently a graduate student in biomedical data science @ Stanford
-- 🎓 I previously graduated from Vanderbilt where I studied molecular & cellular biology, computer science, and mathematics, kickstarting my fascination with all three disciplines and their intersection
-- 🧬 On the molecular front, I'm particularly interested in understanding the tumor microenvironment at single-cell & sub-cellular resolution using high-throughput and multimodal approaches
-- 🩺 On the clinical front, I'm fascinated by notions of a [generalist medical AI](https://www.nature.com/articles/s41586-023-05881-4) to streamline healthcare delivery
-
-<p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/_roboat_" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/roboatory/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-</p>
-
-<!--
-**roboatory/roboatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 i'm currently a graduate student in biomedical data science @ stanford and will be starting my md/phd @ penn in statistics & data science as part of their medical scientist training program
+* 🎓 i previously graduated from vanderbilt where i majored in molecular & cellular biology, computer science, and mathematics, kickstarting my fascination with data-driven biological discovery and single-cell / spatial technologies
+* 🧠 my research interests can be broadly divided along molecular, clinical, and computational fronts
+  * **molecularly**, i'm interested in understanding pan-cancer tumor microenvironment progression at single-cell & spatial resolution using high-throughput and multimodal approaches
+  * **clinically**, i'm fascinated by notions of a [generalist medical AI](https://www.nature.com/articles/s41586-023-05881-4) to streamline healthcare delivery
+  * **computationally**, i'm focused on developing statistical methods and crafting deep learning approaches to enable scalable, interpretable analyses of high-dimensional single-cell and spatial datasets, with the ultimate goal of advancing the [AI virtual cell](https://www.cell.com/action/showPdf?pii=S0092-8674%2824%2901332-1)
